@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  height: 450cm;
+}
+.footer {
+  top: 540px;
+  width: 100%;
+  height: 209px;
+  position: fixed;
+  background-image: url('./images/footer.png')
+}
